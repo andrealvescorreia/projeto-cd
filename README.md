@@ -1,7 +1,7 @@
 
 # Projeto-CD
 
-Bem-vindo ao **Projeto-CD**, um projeto configurado para facilitar a configuração de ambientes de desenvolvimento em Python com um ambiente virtual (venv) e gerenciamento de dependências.
+Bem-vindo ao nosso **Projeto de Ciência de Dados**, que buscou comparar o desempenho de diferentes algoritmos de classificação (KNN, Random Forest) no problema de clasificação de gêneros musicais.
 
 ## Configuração do Ambiente
 
